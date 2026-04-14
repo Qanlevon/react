@@ -153,7 +153,6 @@ function render(
     root = createContainer(
       rootInstance,
       concurrentRoot ? ConcurrentRoot : LegacyRoot,
-      null,
       false,
       null,
       '',

@@ -160,7 +160,6 @@ function render(
       LegacyRoot,
       null,
       false,
-      null,
       '',
       onUncaughtError,
       onCaughtError,
